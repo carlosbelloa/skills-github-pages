@@ -1,5 +1,6 @@
-
-# Welcome to My Blog! 👋
+---
+title: Home
+---
 
 Hi! Welcome to my personal blog.
 
